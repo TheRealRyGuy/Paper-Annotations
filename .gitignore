@@ -116,3 +116,4 @@ run/
 .gradle
 **/build/
 !src/**/build/
+gradle.properties

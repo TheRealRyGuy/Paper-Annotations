@@ -38,3 +38,4 @@ _Be careful about cyclic loading!_
 - Address `AnnotationProcessor` logic, I put in a very lazy error check for now because the return logic is
 very poor, but that isn't great for production
 - Add possible registries for Command and Listener based annotation registry
+- Document
